@@ -1,0 +1,12 @@
+body {margin: auto;}
+footer {
+    margin: 0 auto;
+    width: 878px;
+    text-align: center;
+    background-image:url(footer.png) ;
+    margin: auto; 
+    color: white;
+    padding: 10px 0px;
+    word-spacing: 4px;
+}
+address {display: inline;}
